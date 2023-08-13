@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test Pro
 test pro 1
 =======
@@ -6,3 +7,7 @@ Test repo
 Test repo1
 test repo 2
 >>>>>>> origin/sit
+=======
+Test repo
+Test repo1
+>>>>>>> parent of 1374202 (second commit)
